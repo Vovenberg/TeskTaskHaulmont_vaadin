@@ -1,0 +1,11 @@
+TestHaulmont\jpa\entity\Group.class
+TestHaulmont\util\CustomIntegerRangeValidator.class
+TestHaulmont\MyUI$MyUIServlet.class
+TestHaulmont\jpa\Factory.class
+TestHaulmont\jpa\dao\GroupDAO.class
+TestHaulmont\MyUI$2.class
+TestHaulmont\jpa\dao\AbstractDAO.class
+TestHaulmont\MyUI.class
+TestHaulmont\jpa\dao\StudentDAO.class
+TestHaulmont\jpa\entity\Student.class
+TestHaulmont\MyUI$1.class
